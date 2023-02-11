@@ -3,3 +3,6 @@ source code changes
 Installing and configuring Jenkins
 Deploying infrastructure
 environments
+
+
+I LOVE DEVOPS COMP2156
