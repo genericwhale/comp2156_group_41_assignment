@@ -1,2 +1,6 @@
 "george brown college"
 "george brown college is one of the best colleges"
+
+"The gbc of applied arts and technology is a public, fully accredit college of applied arts and technology"
+
+
