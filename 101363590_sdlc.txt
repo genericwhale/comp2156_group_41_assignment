@@ -1,2 +1,8 @@
 DevOps allows for constant review throughout the software development process to think about the software holistically. 
-This makes for a more stable release and, in the end, a better product for the end-user.
+This makes for a more stable release and, in the end, a better product for the end-user. 
+DevOps Services came into play by effectively serving the purpose of reducing the time involved in SDLC for prompt deliveries
+and securing the continuous production of high-quality, foolproof software applications.
+
+
+
+
