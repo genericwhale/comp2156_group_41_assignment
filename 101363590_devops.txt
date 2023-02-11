@@ -1,0 +1,5 @@
+Mechanisms to integrate and validate
+source code changes
+Installing and configuring Jenkins
+Deploying infrastructure
+environments
