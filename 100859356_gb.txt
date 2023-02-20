@@ -1,0 +1,2 @@
+name = George Brown College
+description = a College
