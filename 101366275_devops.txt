@@ -1,4 +1,0 @@
-"devops is fun"
-"the professor of this course is Priteshkumar Patel"
-"learning devops is interesting"
-"Course code: comp2156"
