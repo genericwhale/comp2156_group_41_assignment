@@ -1,3 +1,0 @@
-"sdlc"
-"The software development life cycle is a structured process that enables the production of high-quality production time"
-
