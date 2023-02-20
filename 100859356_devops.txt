@@ -1,2 +1,3 @@
 Course code = COMP 2156
 Course description = DevOps for system administration
+opinion of course = I am enjoying this course and the challenges it presents
